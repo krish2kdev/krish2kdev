@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hello All! 
+### Call me KH 👋
+<img src="https://github.com/krish2kdev/krish2kdev/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+  
+  - 💻 Working as Software Engineer in Opentext Corporation
+  - 🌱 Brushing up many of the software engineering concepts
+
+#### 📫 How to reach me:
+  [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/krish2kdev)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/krish2kdev/)  &nbsp; <a href="mailto:gvskhrithi2k@aol.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 <!--
 **krish2kdev/krish2kdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
