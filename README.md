@@ -7,7 +7,7 @@
   - 💬 Ask me about anything related to tech (time to become limitless, my friend!)
 
 #### 📫 How to reach me:
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/krish2kdev)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/krish2kdev/)  &nbsp; <a href="mailto:gvskhrithi2k@aol.com"> <img src="https://img.icons8.com/?size=100&id=85467&format=png&color=000000" width="3.25%"/>
+[<img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000" width="3.5%"/>](https://twitter.com/krish2kdev)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/krish2kdev/)  &nbsp; <a href="mailto:gvskhrithi2k@aol.com"> <img src="https://img.icons8.com/?size=100&id=85467&format=png&color=000000" width="3.25%"/>
 
 
 
