@@ -1,5 +1,5 @@
 <h4 align="center"><samp> 👋🏾  Welcome to My Github Profile (Call me Krish) </samp></h4>
-<h4 align="center"><samp> Work In Progress </samp></h4>
+<h4 align="center"><samp> Profile is Work In Progress </samp></h4>
 <img src="https://github.com/krish2kdev/krish2kdev/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 💻 <samp> Working as Software Engineer in OpenText Corporation </samp>
