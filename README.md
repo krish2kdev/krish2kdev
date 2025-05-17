@@ -1,4 +1,4 @@
-<h4 align="center"><samp> 👋🏾 Welcome to My Github Profile (Call me Krish) </samp></h4>
+<h4 align="center"><samp> 👋🏾 Welcome to My Github (Call me Krish) </samp></h4>
 <h4 align="center"><i>Profile is Work In Progress</i></h4>
 <img src="https://github.com/krish2kdev/krish2kdev/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
