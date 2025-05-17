@@ -1,5 +1,4 @@
 <h4 align="center"><samp> 👋🏾 Welcome to My Github (Call me Krish) </samp></h4>
-<h4 align="center"><i>Profile is Work In Progress</i></h4>
 
 ```
 krish2kdev@github:~$ whoami
