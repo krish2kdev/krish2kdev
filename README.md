@@ -1,10 +1,24 @@
 <h4 align="center"><samp> 👋🏾 Welcome to My Github (Call me Krish) </samp></h4>
 <h4 align="center"><i>Profile is Work In Progress</i></h4>
+
+```
+krish2kdev@github:~$ whoami
+```
+
+```
+Name: G V S Krishna Hrithik
+
+Location: Bangalore, India
+```
+
+<p align="center">
+    <img src="https://github.com/krish2kdev/krish2kdev/blob/assets/techguytinkeringonterminal.jpg" alt="" width="60%">
+</p>
 <img src="https://github.com/krish2kdev/krish2kdev/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
-  - 💻 <samp> Working as Software Engineer in OpenText Corporation </samp>
-  - 🌱 <samp> Brushing up many of the software engineering concepts </samp>
-  - 💬 <samp> Ask me about anything related to tech (time to become limitless, my friend!) </samp>
+  - 💻 <samp> Working as <b>Software Engineer</b> in OpenText Corporation </samp>
+  - 🌱 <samp> Brushing up many of the <b>Software Engineering</b> concepts </samp>
+  - 💬 <samp> Discuss anything related to <b>Tech</b> <i>(time to become limitless, my friend!)</i> </samp>
 
 #### 📫 <samp> To reach me: </samp>
 [<img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000" width="3.5%"/>](https://twitter.com/krish2kdev)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/krish2kdev/)  &nbsp; <a href="mailto:gvskhrithi2k@aol.com"> <img src="https://img.icons8.com/?size=100&id=85467&format=png&color=000000" width="3.25%"/>
