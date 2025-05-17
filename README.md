@@ -12,9 +12,9 @@ Location: Bangalore, India
 ```
 
 <p align="center">
-    <img src="https://github.com/krish2kdev/krish2kdev/blob/assets/techguytinkeringonterminal.jpg" alt="" width="60%">
+    <img src="assets/techguytinkeringonterminal.png" alt="center Image" width="60%">
 </p>
-<img src="https://github.com/krish2kdev/krish2kdev/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<img src="assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
   - 💻 <samp> Working as <b>Software Engineer</b> in OpenText Corporation </samp>
   - 🌱 <samp> Brushing up many of the <b>Software Engineering</b> concepts </samp>
