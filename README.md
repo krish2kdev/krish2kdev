@@ -1,4 +1,10 @@
-<h4 align="center"><samp> 👋🏾 Welcome to My Github (Call me Krish) </samp></h4>
+<h4 align="center"><samp> 👋🏾 Welcome to My Github (Call me Krish) </samp>
+</h4>
+
+<div align="center">
+<h4>💬 <samp> To reach me: </samp><br></h4>
+<a href="https://x.com/krish2kdev"><img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000" width="3.5%"/></a> &nbsp; <a href="https://www.linkedin.com/in/krish2kdev"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a> &nbsp; <a href="mailto:gvskhrithi2k@aol.com"><img src="https://img.icons8.com/?size=100&id=85467&format=png&color=000000" width="3.25%"/></a>
+</div>
 
 ```
 krish2kdev@github:~$ whoami
@@ -19,12 +25,11 @@ Location: Bangalore, India
   - 🌱 <samp> Brushing up many of the <b>Software Engineering</b> concepts </samp>
   - 💬 <samp> Discuss anything related to <b>Tech</b> <i>(time to become limitless, my friend!)</i> </samp>
 
+<!--
+
 #### 💬 <samp> To reach me: </samp>
 [<img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000" width="3.5%"/>](https://twitter.com/krish2kdev)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/krish2kdev/)  &nbsp; <a href="mailto:gvskhrithi2k@aol.com"> <img src="https://img.icons8.com/?size=100&id=85467&format=png&color=000000" width="3.25%"/>
 
-
-
-<!--
 **krish2kdev/krish2kdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
