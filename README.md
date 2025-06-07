@@ -25,6 +25,8 @@ Location: Bangalore, India
   - 🌱 <samp> Brushing up many of the <b>Software Engineering</b> concepts </samp>
   - 💬 <samp> Discuss anything related to <b>Tech</b> <i>(time to become limitless, my friend!)</i> </samp>
 
+Inspired From [GsnMithra](https://github.com/GsnMithra)
+
 <!--
 
 #### 💬 <samp> To reach me: </samp>
