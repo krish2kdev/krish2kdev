@@ -13,7 +13,7 @@ krish2kdev@github:~$ whoami
 ```
 Name: G V S Krishna Hrithik
 
-Location: Bangalore, India
+Location: Hyderabad, India
 ```
 
 <p align="center">
