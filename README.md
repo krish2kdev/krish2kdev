@@ -21,7 +21,7 @@ Location: Hyderabad, India
 </p>
 <img src="assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
   
-  - 💻 <samp> Working as <b>Software Engineer</b> in OpenText Corporation </samp>
+  - 💻 <samp> Working as <b>Cloud Development Engineer</b> in Pegasystems Inc. </samp>
   - 🌱 <samp> Brushing up many of the <b>Software Engineering</b> concepts </samp>
   - 💬 <samp> Discuss anything related to <b>Tech</b> <i>(time to become limitless, my friend!)</i> </samp>
 
