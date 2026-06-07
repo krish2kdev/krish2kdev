@@ -3,7 +3,7 @@
 
 <div align="center">
 <h4>💬 <samp> To reach me: </samp><br></h4>
-<a href="https://x.com/krish2kdev"><img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000" width="3.5%"/></a> &nbsp; <a href="https://www.linkedin.com/in/krish2kdev"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a> &nbsp; <a href="mailto:gvskhrithi2k@aol.com"><img src="https://img.icons8.com/?size=100&id=85467&format=png&color=000000" width="3.25%"/></a>
+<a href="https://x.com/krish2kdev"><img src="https://img.icons8.com/?size=100&id=YfCbGWCWcuar&format=png&color=000000" width="3.5%"/></a> &nbsp; <a href="https://www.linkedin.com/in/krish2kdev"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/></a> &nbsp; <a href="mailto:gvskhrithi2k@aol.com"><img src="https://img.icons8.com/?size=100&id=85467&format=png&color=000000" width="3.25%"/></a> &nbsp; <a href="https://www.threads.com/@krishnahrithik10" width="3.25%"/><img src="https://img.icons8.com/?size=100&id=AS2a6aA9BwK3&format=png&color=000000" width="3.5%"></a>
 </div>
 
 ```
